@@ -1,0 +1,18 @@
+<%- include('./partials/header'); %>
+<main class="admin">
+    <div class="container">
+        <h1>Painel administrativo</h1>
+        <p>Bemvindo <% =usuario.nome %> </p>
+
+        <section>
+            <article>
+                <a href="/admin/servicos">Serviços</a>
+            </article>
+            <article>
+                <a href="/admin/usuarios">Usuários</a>
+            </article>
+
+        </section>
+    </div>
+</main>
+<%- include('./partials/footer'); %>

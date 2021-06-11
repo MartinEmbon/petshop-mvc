@@ -1,0 +1,26 @@
+[
+    {
+        "id": "3ee35c1d-e010-4415-a302-51eef714a75d",
+        "nome": "Hendy Almeida",
+        "email": "hendy.almeida@hotmail.com",
+        "senha": "$2b$10$pvPD1TEr9i0hoCVd7ReDy.pldgA1fVUNL11HzmphQVi/9bNcJ/Jhm"
+    },
+    {
+        "id": "71368760-c1c7-4d0b-867a-909d0f5deb16",
+        "nome": "martin",
+        "email": "martinembon@hotmail.com",
+        "senha": "$2b$10$AWILeO9kW2XpEVMhMcVW2eiJ7BbQVuraO77YIG3c1dlxzBOWGC0J2"
+    },
+    {
+        "id": "ea592d1d-b131-4f14-bd33-4c4fcc23977f",
+        "nome": "tincho",
+        "email": "martin@martin.com",
+        "senha": "$2b$10$QPfyQT/fi3qb/ID7evnQuOqjwAfhGc6ykVeaTBR92XSYjPr3Olfze"
+    },
+    {
+        "id": "4a1486a0-9123-4d13-aa1d-b1ba0dc54c91",
+        "nome": "martin",
+        "email": "martin@thor.com",
+        "senha": "$2b$10$Cy/zqt3DYztPzHBhlnzwm.QNlK.Tw/Yjb6tN2G/CjOyQGEVGCWzyO"
+    }
+]
